@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+- serializedVersion: 2
+  enabled: 1
+  path: Assets/xRoller/Scenes/MainScene.unity
+  guid: 08e443df8ca2d164fae8e8dff2e3e44c
